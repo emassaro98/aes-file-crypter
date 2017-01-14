@@ -1,0 +1,3 @@
+C:\Users\emass\Google Drive\Progetti\Visual Studio\aes-file-crypter\AesCrypter\bin\Debug\AesCrypter.exe.config
+C:\Users\emass\Google Drive\Progetti\Visual Studio\aes-file-crypter\AesCrypter\obj\Debug\AesCrypter.exe
+C:\Users\emass\Google Drive\Progetti\Visual Studio\aes-file-crypter\AesCrypter\obj\Debug\AesCrypter.pdb
